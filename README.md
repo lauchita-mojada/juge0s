@@ -1,4 +1,7 @@
-# .wad
-archivos .wad de wii (usar con wii mod lite)
-ten en cuenta que hay probabilidad de briquear tu wii
+# jueg0s
+
+es recomendable desactivar el antivirus 
+todo archivo es de https://optijuegos.net/ 
+necesitas un app para descargar archivos torrent
+
 
